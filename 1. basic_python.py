@@ -68,3 +68,38 @@ print(my_var)
 '''Importante'''
 
 # No pueden llamarse como las palabras reservadas!
+
+'''Cadenas y entradas'''
+
+# Una cadena son simples secuencias de caracteres.
+
+my_str = "Hello World!"
+
+# Slices
+
+my_str[0]
+my_str[2:5]
+my_str[6:]
+my_str[::]
+
+# Formas escribir cadenas de caracteres
+
+'123'
+'123' * 3
+'123' + '456'
+('ra' * 3) + ' ' + 'hurra!'
+f'{"Hip" * 3} hurra'
+
+'''
+Ejercicio. 1
+Escribir una variable tipo str que luego sera concatenada en un string sin usar el operador "+".
+'''
+
+'''Entradas o Inputs'''
+
+# Los inputs reciben texto de el usuario y lo guarda como string.
+
+'''
+Ejercicio. 2
+Pedir ingresar por teclado un objeto y que te regrese una respuesta usando ese objeto.
+'''

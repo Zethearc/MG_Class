@@ -1,0 +1,25 @@
+'''
+Lenguaje de programación - Python
+- Alto nivel
+- General
+- Interpretado
+'''
+
+'''
+Se compone principalmente de operadores y literales (objetos)
+<Literales>     1, 'abc', 2.0, True 
+<Operadores>    + / * % ** = ==
+<literal>   <operador>  <literal>
+    1           +           2
+'''
+#print(1 + 2)
+#1 3.0              #SyntaxError
+#5 / 'Python'       #TypeError
+
+# Statement o enunciado.
+print("Hello World!")
+# Escribir una cadena de caracteres.
+print("Python Rocks!")
+# Podemos "Sumar" dos cadenas de caracteres.
+print("Python" + "Rocks!")
+# Podemos sumar numeros enteros.
